@@ -1,0 +1,10 @@
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex03\ex03\ex03\bin\Debug\ex03.exe.config
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex03\ex03\ex03\bin\Debug\ex03.exe
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex03\ex03\ex03\bin\Debug\ex03.pdb
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex03\ex03\ex03\obj\Debug\ex03.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex03\ex03\ex03\obj\Debug\ex03.frmTelaPrinciopal.resources
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex03\ex03\ex03\obj\Debug\ex03.Properties.Resources.resources
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex03\ex03\ex03\obj\Debug\ex03.csproj.GenerateResource.cache
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex03\ex03\ex03\obj\Debug\ex03.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex03\ex03\ex03\obj\Debug\ex03.exe
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex03\ex03\ex03\obj\Debug\ex03.pdb
